@@ -1,2 +1,2 @@
-# titanic-kaggle
-Como participar de sua primeira competição no Kaggle usando dados do Titanic
+# Competição do Titanic no Kaggle
+Como participar de sua primeira competição no Kaggle usando dados do Titanic.
